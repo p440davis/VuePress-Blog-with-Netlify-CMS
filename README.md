@@ -11,9 +11,9 @@
 
 ## Demo site
 
-[vuepress-blog-template.netlify.com](https://vuepress-template.netlify.com/)
+[vuepress-blog-starter.netlify.com](https://vuepress-blog-starter.netlify.com/)
 
-<a href="https://vuepress-template.netlify.com/"><img src="https://raw.githubusercontent.com/p440davis/VuePress-Blog-with-Netlify-CMS/master/blog/.vuepress/public/media/VuePress_%2B_Netlify_CMS.png" alt="" /></a>
+<a href="https://vuepress-blog-starter.netlify.com/"><img src="https://raw.githubusercontent.com/p440davis/VuePress-Blog-with-Netlify-CMS/master/blog/.vuepress/public/media/VuePress_%2B_Netlify_CMS.png" alt="" /></a>
 
 ## Features
 
