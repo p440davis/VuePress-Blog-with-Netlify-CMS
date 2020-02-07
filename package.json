@@ -1,16 +1,28 @@
 {
-  "name": "vuepress-blog-template",
+  "name": "vuepress-blog-with-netlify-cms",
   "version": "0.0.1",
-  "description": "A blog powered by VuePress",
-  "authors": {
-    "name": "Billyyyyy3320",
-    "email": "newsbielt703@gmail.com"
-  },
+  "description": "A website starter template with the official VuePress Blog theme and Netlify CMS config",
   "scripts": {
-    "dev": "vuepress dev blog",
-    "build": "vuepress build blog"
+    "build": "vuepress build blog",
+    "dev": "vuepress dev blog"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p440davis/VuePress-Blog-with-Netlify-CMS.git"
+  },
+  "keywords": [
+    "VuePress",
+    "Blog",
+    "Netlify",
+    "Netlify CMS",
+    "Netlify template"
+  ],
+  "author": "Pete Davis (https://petedavis.dev)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/p440davis/VuePress-Blog-with-Netlify-CMS/issues"
+  },
+  "homepage": "https://vuepress-blog-template.netlify.com",
   "devDependencies": {
     "@vuepress/theme-blog": "^2.0.0",
     "vuepress": "^1.0.0"

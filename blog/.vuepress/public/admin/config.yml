@@ -1,0 +1,25 @@
+backend:
+  name: github
+  repo: p440davis/VuePress-Blog-with-Netlify-CMS
+media_folder: "blog/.vuepress/public/media"
+public_folder: "/media"
+publish_mode: editorial_workflow
+collections:
+  - label: "Post"
+    name: "posts"
+    folder: "blog/_posts"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Meta description", name: "description", widget: "string" }
+      - { label: "Summary", name: "summary", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Permalink",
+          name: "permalink",
+          widget: "hidden",
+          default: "/:slug",
+        }
