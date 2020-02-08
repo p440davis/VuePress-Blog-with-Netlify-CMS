@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'VuePress Blog Example',
-  description: 'A blog powered by VuePress',
-  theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
+  title: "VuePress Blog Example",
+  description: "A blog powered by VuePress",
+  theme: "@vuepress/theme-blog", // OR shortcut: @vuepress/blog
   themeConfig: {
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#dateformat
@@ -40,11 +40,11 @@ module.exports = {
       ],
       copyright: [
         {
-          text: "Billy Chin © 2020",
+          text: "Pete Davis © 2020",
           link: ""
         }
       ]
-    },
+    }
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#directories
      */
@@ -151,5 +151,5 @@ module.exports = {
      */
 
     // smoothScroll: true
-  },
-}
+  }
+};

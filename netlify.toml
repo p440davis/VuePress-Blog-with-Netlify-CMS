@@ -1,0 +1,3 @@
+[build]
+  command = "vuepress build blog"
+  publish = "blog/.vuepress/dist"
