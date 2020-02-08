@@ -14,7 +14,13 @@ collections:
       - { label: "Summary", name: "summary", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "date" }
       - { label: "Author", name: "author", widget: "string", default: "Me" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["News"], hint: "Comma separated list", default: ["News", "Travel", "Home Life"]}
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "list",
+          default: ["News", "VuePress", "Netlify CMS"],
+          hint: "Comma separated list",
+        }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
           label: "Permalink",
