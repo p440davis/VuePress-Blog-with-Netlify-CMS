@@ -35,7 +35,7 @@ module.exports = {
         },
         {
           type: "mail",
-          link: "mailto:newsbielt703@gmail.com"
+          link: "mailto:an@example.email"
         }
       ],
       copyright: [

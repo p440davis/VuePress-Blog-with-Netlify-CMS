@@ -11,11 +11,10 @@ collections:
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Meta description", name: "description", widget: "string" }
       - { label: "Summary", name: "summary", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "date" }
+      - { label: "Author", name: "author", widget: "list", default: ["Pete"] }
+      - { label: "Tags", name: "tags", widget: "list", default: ["News"] }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
           label: "Permalink",
