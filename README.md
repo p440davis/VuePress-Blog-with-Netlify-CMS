@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6adff723-8d84-47f5-89cf-85f1c6711af0/deploy-status)](https://app.netlify.com/sites/vuepress-template/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d5ba9070-f033-4b70-915b-7278fca41dd0/deploy-status)](https://app.netlify.com/sites/vuepress-blog-starter/deploys)
 <a href="#" target="_blank">
   <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
 </a>
