@@ -1,6 +1,6 @@
 module.exports = {
-  title: "VuePress Blog Example",
-  description: "A blog powered by VuePress",
+  title: "VuePress blog with Netlify CMS",
+  description: "A Netlify template with the default VuePress blog theme and Netlify CMS config",
   theme: "@vuepress/theme-blog", // OR shortcut: @vuepress/blog
   themeConfig: {
     /**
@@ -31,7 +31,7 @@ module.exports = {
       contact: [
         {
           type: "github",
-          link: "https://github.com/newsbielt703"
+          link: "https://github.com/p440davis/"
         },
         {
           type: "mail",
