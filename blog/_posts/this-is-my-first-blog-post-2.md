@@ -4,6 +4,7 @@ summary: 'Blogging with VuePress is so easy, you will love it!'
 date: 2020-02-08T19:00:56.709Z
 author: Me
 tags:
+  - Lorem ipsum
   - Food
 permalink: '/:slug'
 ---
