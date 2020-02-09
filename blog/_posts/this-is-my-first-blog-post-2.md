@@ -1,6 +1,8 @@
 ---
 title: Cupcake ipsum
-summary: 'Blogging with VuePress is so easy, you will love it!'
+summary: >-
+  Cookie sweet roll sweet roll toffee. Biscuit tiramisu jelly-o. Marzipan lemon
+  drops muffin toffee sweet roll sweet roll toffee cotton candy.
 date: 2020-02-08T19:00:56.709Z
 author: Me
 tags:
