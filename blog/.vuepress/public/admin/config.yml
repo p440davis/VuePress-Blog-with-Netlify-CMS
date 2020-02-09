@@ -10,21 +10,38 @@ collections:
     folder: "blog/_posts"
     create: true
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Summary", name: "summary", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "date" }
-      - { label: "Author", name: "author", widget: "string", default: "Me" }
-      - {
-          label: "Tags",
-          name: "tags",
-          widget: "list",
-          default: ["News", "VuePress", "Netlify CMS"],
-          hint: "Comma separated list",
-        }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - {
-          label: "Permalink",
-          name: "permalink",
-          widget: "hidden",
-          default: "/:slug",
-        }
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Summary"
+        name: "summary"
+        widget: "string"
+        required: false
+
+      - label: "Publish Date"
+        name: "date"
+        widget: "date"
+
+      - label: "Author"
+        name: "author"
+        widget: "select"
+        options: [ "Pete Davis", "Billy Chin" ]
+        required: false
+
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default: [ "VuePress", "Netlify CMS", "Lorem ipsum", "Food" ]
+        hint: "Comma separated list"
+        required: false
+
+      - label: "Body"
+        name: "body"
+        widget: "markdown" 
+
+      - label: "Permalink"
+        name: "permalink"
+        widget: "hidden"
+        default: "/:slug"
+
