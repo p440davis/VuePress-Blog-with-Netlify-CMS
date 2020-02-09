@@ -1,5 +1,5 @@
 module.exports = {
-  title: "VuePress blog with Netlify CMS",
+  title: "VuePress blog + Netlify CMS",
   description: "A Netlify template with the default VuePress blog theme and Netlify CMS config",
   theme: "@vuepress/theme-blog", // OR shortcut: @vuepress/blog
   themeConfig: {
