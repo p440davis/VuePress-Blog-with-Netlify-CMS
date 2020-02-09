@@ -21,7 +21,6 @@ export default {
 <style scoped>
 /* Component css here */
 a {
-  display: block;
-  width: min-content;
+  display: inline-block;
 }
 </style>
