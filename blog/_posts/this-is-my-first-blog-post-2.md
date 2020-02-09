@@ -1,12 +1,17 @@
 ---
 title: Cupcake ipsum
-summary: 'Blogging with VuePress is so easy, you will love it!'
+summary: >-
+  Cookie sweet roll sweet roll toffee. Biscuit tiramisu jelly-o. Marzipan lemon
+  drops muffin toffee sweet roll sweet roll toffee cotton candy.
 date: 2020-02-08T19:00:56.709Z
 author: Me
 tags:
+  - Lorem ipsum
   - Food
 permalink: '/:slug'
 ---
+Supplied by [cupcakeipsum.com](http://www.cupcakeipsum.com/)
+
 Cookie sweet roll sweet roll toffee. Biscuit tiramisu jelly-o. Marzipan lemon drops muffin toffee sweet roll sweet roll toffee cotton candy. Bear claw brownie bonbon cake cake gummi bears pie dessert topping. Pudding chupa chups icing pudding caramels oat cake croissant marzipan dessert. Jelly cotton candy lollipop cheesecake. Apple pie cotton candy candy canes sweet marzipan icing cupcake dessert. Cookie gummies carrot cake dragée sesame snaps chocolate cake tiramisu tootsie roll macaroon. Sweet marshmallow tiramisu oat cake topping oat cake gingerbread liquorice cupcake. Pie soufflé jujubes candy caramels muffin pie cake. Jelly beans cupcake pudding. Oat cake soufflé jelly beans jelly-o tart dragée gummies toffee. Tiramisu bear claw toffee sugar plum cheesecake. Marzipan carrot cake lemon drops jelly-o macaroon brownie.
 
 Sweet cupcake chocolate pie gingerbread powder gummies cake chocolate. Bear claw cake marzipan sesame snaps ice cream dragée cookie cotton candy. Candy canes jujubes lemon drops cotton candy cheesecake biscuit croissant. Wafer pudding gingerbread dragée sesame snaps fruitcake. Pie halvah topping sweet roll caramels halvah. Fruitcake jujubes chocolate bar sweet roll. Halvah croissant gingerbread jelly beans cotton candy. Apple pie donut sesame snaps ice cream. Chocolate sesame snaps cookie wafer jelly. Sweet gummies ice cream. Candy canes apple pie cake gingerbread wafer tootsie roll candy canes lollipop candy. Icing sugar plum lemon drops gingerbread sweet roll.
