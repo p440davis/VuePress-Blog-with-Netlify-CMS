@@ -8,10 +8,7 @@ summary: >-
 date: 2020-02-09T11:24:15.520Z
 author: Pete Davis
 tags:
-  - VuePress
-  - Netlify CMS
   - Lorem ipsum
-  - Food
 permalink: '/:slug'
 ---
 Supplied by [catipsum.com](http://www.catipsum.com/)
