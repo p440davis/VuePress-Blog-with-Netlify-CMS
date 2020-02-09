@@ -6,7 +6,7 @@ summary: >-
 date: 2020-02-07T10:29:49.233Z
 author: Me
 tags:
-  - Lorem psum
+  - Lorem ipsum
 permalink: '/:slug'
 ---
 Supplied by [loremipsum.io](https://loremipsum.io/)
